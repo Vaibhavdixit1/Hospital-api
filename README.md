@@ -96,10 +96,6 @@ URL: ` http://localhost:8000/`
 2. Testing for `/patients/:id/create_report`
 3. Testing for `/patients/:id/all_reports`
 
-- Output:(On the console)
-
-![](/Images/13.JPG)
-
 ## Folder Structure
 - **Entry point** : index.js.
 - **config** : Contains configuration files of Mongoose,Passport JWT Strategies and Status.
